@@ -1,23 +1,23 @@
-## Full Stack Developer Task
+## Front End Engineer Task
 
-In order to be considered for full stack developer position, you must complete the following steps.
+In order to be considered for front end engineer position, you must complete the following steps.
 
 
 ### Here are couple of things to keep in mind:
 
 * The code must be of production quality.
 * Your code must be cross browser compatible and responsive across different devices.
-* You must build progressive web apps.
-* Ensure code is object-oriented, well encapsulated and follow a consistent convention.
-
+* Your web apps should be consistent across all tabs when user have multiple tabs open and is making changes from any of them.
+* Ensure code should follow a consistent convention.
+* (Optional) Use [Github Pages](https://help.github.com/articles/what-is-github-pages/) or any other hosting service to run your solution. Please don't send us your code over email instead send us link to your github repo(s).
 
 ## Task
 
-You must complete atleast two of the following tasks:
+You must complete the following tasks:
 
-1. Develop an enchanting resume [Curriculum Vitae](Curriculum Vitae.md).
+1. Develop an enchanting [Curriculum Vitae](Curriculum Vitae.md).
 2. Complete [donation](Donate.md) task.
-3. Implement a [Web Crawler] (https://github.com/Loktra/fullstack-engineer/blob/master/Web%20Crawler.md).
+3. Implement a [shopping cart](Shopping Cart.md).
 4. Commit and push your code to your new repository.
 
-To apply, please email akhil@loktra.com with your solution - fullstack-engineer as the first word in the subject line. Include link of your code on Github, and also send us a current resume in HTML, Plain Text, or PDF format. In the body of the email please explain why you would be a good fit for this job.
+To apply, please email akhil@loktra.com with your solution - front end engineer as the first word in the subject line. Include link of your code on Github. In the body of the email please explain why you would be a good fit for this job.

@@ -69,7 +69,6 @@ You are not allowed to inject any dependency on the Cart service other than the 
 * clear, coincise, DRY implementation
 * appropriate naming conventions
 
-Another thing to consider: the cart should be working even when the user has multiple browser tabs open and is adding products from each of them.
 
 We are **not** going to check the submitted script for syntax errors: concentrate on the design of the `Cart` service, we don't need to check for the small things
 
