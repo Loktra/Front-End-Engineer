@@ -6,8 +6,7 @@ Your task is to implement a basic shopping cart for a website, following these b
 * the cart should be retrieved from the localStorage, where it's stored under the key `cart`
 * every time an action is performed on the cart, it should be persisted on the localStorage
 * the cart should only know about item IDs and their quantity
-* you will write the cart by implementing the methods of the provided cart service in the code block below: please fork it and submit your implementation
-* it should take you less than 1 hour to come up with an implementation, but we won't put any time limit for this challenge
+* you will write the cart by implementing the methods of the provided cart service in the code block below.
 
 ``` javascript
 angular.module('services.cart', [])
@@ -38,7 +37,7 @@ For some of the methods mentioned in the empty Cart service, we thought of givin
 
 #### Save
 
-Checks if the cart can be persisted through the `Reviewer` service: if so, it `persist`s it.
+Checks if the cart can be persisted through the `Reviewer` service: if so, it `persists` it.
 
 #### Clear
 
@@ -63,13 +62,5 @@ You are not allowed to inject any dependency on the Cart service other than the 
 * `$rootScope`: you might want to use it for whatever reason (for example, triggering events)
 * `Reviewer`: it's an angular service that will review the contents of the cart (`Reviewer.review(cart)`, returns a promise)
 
-### What are we going to look for?
 
-* the fewer lines of code, the better
-* clear, coincise, DRY implementation
-* appropriate naming conventions
-
-
-We are **not** going to check the submitted script for syntax errors: concentrate on the design of the `Cart` service, we don't need to check for the small things
-
-Please use **a simple one-file gist** (private or public) to submit your coding challenge.
+We are **not** going to check the submitted script for syntax errors: concentrate on the design of the `Cart` service, we don't need to check for the small things.
