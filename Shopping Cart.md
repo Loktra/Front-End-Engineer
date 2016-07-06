@@ -2,7 +2,6 @@
 
 Your task is to implement a basic shopping cart for a website, following these basic rules:
 
-* the cart needs to be implemented as an AngularJS service
 * the cart should be retrieved from the localStorage, where it's stored under the key `cart`
 * every time an action is performed on the cart, it should be persisted on the localStorage
 * the cart should only know about item IDs and their quantity
@@ -62,5 +61,6 @@ You are not allowed to inject any dependency on the Cart service other than the 
 * `$rootScope`: you might want to use it for whatever reason (for example, triggering events)
 * `Reviewer`: it's an angular service that will review the contents of the cart (`Reviewer.review(cart)`, returns a promise)
 
+Concentrate on the design of the `Cart` service.
 
-We are **not** going to check the submitted script for syntax errors: concentrate on the design of the `Cart` service, we don't need to check for the small things.
+The above functions are for a Angular service. You can choose framework of your choice (or better write without using any framework).

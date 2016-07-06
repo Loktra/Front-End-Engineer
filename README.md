@@ -17,7 +17,7 @@ To apply, please email akhil@loktra.com with your solution - front end engineer 
 ### Things to keep in mind:
 
 * Write production quality code. Fewer lines of code, the better.
-* Your code is cross browser compatible and responsive across different devices.
+* The code should be cross browser compatible and responsive across different devices.
 * Your webapp is consistent across all tabs when user have multiple tabs open and is making changes from any of them.
 * Ensure code follows a consistent convention.
 * (Optional) Use [Github Pages](https://help.github.com/articles/what-is-github-pages/) or any other hosting service to run your solution.
