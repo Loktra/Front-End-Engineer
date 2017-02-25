@@ -9,7 +9,7 @@ Your task is to implement a basic shopping cart for a website, following these b
 * The cart should notify when it has been updated
 * UI could be like flipkart cart, the functionality you should implement is add/remove items, increment/decrement item count and update localStorage on any change
 * The UI should be clean
-* Focus on the cart, other parts are just dummy
+* Focus on the cart, other parts are just helpers
 * Dummy data should be used for the cart items
 
 <!--* the cart should be retrieved from the localStorage, where it's stored under the key `cart`
