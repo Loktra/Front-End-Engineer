@@ -2,7 +2,7 @@
 
 Your task is to implement a basic shopping cart for a website, following these basic rules:
 
-![Shopping](shopping.png "Shopping")
+![Shopping](shopping.png, "Shopping")
 
 * Store the cart on localStorage
 * The cart should only know about item IDs and their quantity
