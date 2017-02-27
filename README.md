@@ -1,9 +1,8 @@
 ## Front End Engineer Task
-You must complete the following tasks:
+You must complete one of the following task:
 
-1. Develop an enchanting [Curriculum Vitae](Curriculum Vitae.md).
-2. Complete [donation](Donate.md) task.
-3. Implement a [shopping cart](Shopping Cart.md).
+1. Complete [donation](Donate.md) task.
+2. Implement a [shopping cart](Shopping Cart.md).
 
 Commit and push your code to your new repository. Use [Github Pages](https://help.github.com/articles/what-is-github-pages/) or any other hosting service to run your solution.
 
