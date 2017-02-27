@@ -2,7 +2,17 @@
 
 Your task is to implement a basic shopping cart for a website, following these basic rules:
 
-* the cart should be retrieved from the localStorage, where it's stored under the key `cart`
+![Shopping](shopping.PNG "Shopping")
+
+* Store the cart on localStorage
+* The cart should only know about item IDs and their quantity
+* The cart should notify when it has been updated
+* UI could be like flipkart cart, the functionality you should implement is add/remove items, increment/decrement item count and update localStorage on any change
+* The UI should be clean
+* Focus on the cart, other parts are just helpers
+* Dummy data should be used for the cart items
+
+<!--* the cart should be retrieved from the localStorage, where it's stored under the key `cart`
 * every time an action is performed on the cart, it should be persisted on the localStorage
 * the cart should only know about item IDs and their quantity
 * you will write the cart by implementing the methods of the provided cart service in the code block below.
@@ -63,4 +73,4 @@ You are not allowed to inject any dependency on the Cart service other than the 
 
 Concentrate on the design of the `Cart` service.
 
-The above functions are for a Angular service. You can choose framework of your choice (or better write without using any framework).
+The above functions are for a Angular service. You can choose framework of your choice (or better write without using any framework).-->
