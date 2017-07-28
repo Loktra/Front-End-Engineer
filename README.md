@@ -2,11 +2,11 @@
 You must complete one of the following task:
 
 1. Complete [donation](Donate.md) task.
-2. Implement a [shopping cart](Shopping Cart.md).
+2. Implement a [shopping cart](ShoppingCart.md).
 
 Commit and push your code to your new repository. Use [Github Pages](https://help.github.com/articles/what-is-github-pages/) or any other hosting service to run your solution.
 
-To apply, please email akhil@loktra.com with your solution. Include link of your code on Github. Also please explain why you would be a good fit for this job.
+To apply, please email careers@loktra.com with your solution. Include link of your code on Github. Also please explain why you would be a good fit for this job.
 
 
 ### Things to keep in mind:
